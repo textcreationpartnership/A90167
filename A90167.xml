@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders and rules appointed by the last will and testament of Sir Thomas Holt, knight and baronet to be observed in the electing, and after the election, of the ten poore persons inhabiting in his almshouse at Aston Juxta Birmingham in the county of Warwick, with the assent and assistance of Dame Anne Holt, the relict of the said Sir Thomas Holt, and of Sir Robert Holt baronet, his grand-son, and his heires males.</title>
+            <author>Holt, Thomas, Sir, 1570 or 71-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90167</idno>
+            <idno type="STC">Wing O396aA</idno>
+            <idno type="STC">ESTC R42531</idno>
+            <idno type="EEBO-CITATION">36282248</idno>
+            <idno type="OCLC">ocm 36282248</idno>
+            <idno type="VID">150150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90167)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150150)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2233:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders and rules appointed by the last will and testament of Sir Thomas Holt, knight and baronet to be observed in the electing, and after the election, of the ten poore persons inhabiting in his almshouse at Aston Juxta Birmingham in the county of Warwick, with the assent and assistance of Dame Anne Holt, the relict of the said Sir Thomas Holt, and of Sir Robert Holt baronet, his grand-son, and his heires males.</title>
+                  <author>Holt, Thomas, Sir, 1570 or 71-1654.</author>
+                  <author>Holt, Robert, Sir.</author>
+                  <author>Holt, Anne.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year, 1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holt, Thomas, --  Sir, 1570 or 71-1654.</term>
+               <term>Almshouses --  England.</term>
+               <term>Charities --  England.</term>
+               <term>Poor --  Prayer-books and devotions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150150:1"/>
+            <p>ORDERS AND RVLES <hi>Appointed by the Laſt Will and Teſtament Of</hi> S<hi rend="sup">ir</hi> THOMAS HOLT, Knight and Baronet, To be Obſerved in the Electing, and after the Election, of the Ten Poore Perſons Inha<g ref="char:EOLhyphen"/>biting in his ALMSHOUSE at <hi>Aston Juxta Birmingham in the County of</hi> WARWICK. With the Aſſent and Aſſiſtance of D<hi rend="sup">ame</hi> ANNE HOLT, The Relict of the ſaid S<hi rend="sup">ir</hi> THOMAS HOLT, And of S<hi rend="sup">ir</hi> ROBERT HOLT Baronet, his Grand-ſon, and his Heires Males.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 112.9.</hi>
+               </bibl>
+               <p>He hath diſperſed, he hath given to the Poore, his Righteouſneſſe endureth for ever.</p>
+            </q>
+            <p>London, <hi>Printed in the Year,</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:150150:2"/>
+            <pb n="1" facs="tcp:150150:2"/>
+            <head>
+               <hi>THE ORDERS AND RULES</hi> Appointed to be Obſerved in the Electing, and after the Election of the Ten Poore Perſons inhabiting in this Almſhouſe at <hi>ASTON.</hi>
+            </head>
+            <p>FIRST <seg rend="decorInit">T</seg>He Number of the Perſons that are to be Relieved there, ſhall be Ten, <hi>viz.</hi> Five Men, and five Women.</p>
+            <p>SECONDLY, The Places from which they ſhall be choſen, are out of the two <hi>Hydes,</hi> within the Pariſh of <hi>Aſton, viz. Aſton Hyde,</hi> and <hi>Nechells</hi> or <hi>Duddeſton Hyde.</hi> In the Election, The Inhabitants of the Lordſhip of <hi>Aſton</hi> ſhall be admitted in the firſt place, of <hi>Nechels</hi> in the ſecond, of <hi>Duddeſton</hi> in the third, of <hi>Witton</hi> in the fourth, of <hi>Saltley</hi> in the fifth, of <hi>Er<g ref="char:EOLhyphen"/>dington</hi> in the ſixth, of Little <hi>Bromwich</hi> in the ſe<g ref="char:EOLhyphen"/>venth,
+<pb n="2" facs="tcp:150150:3"/>of <hi>Bordſley</hi> in the eighth, of <hi>Derritend</hi> in the ninth, and laſt, all lying within the Pariſh of <hi>Aſton.</hi>
+            </p>
+            <p>THIRDLY, The Conditions of the Perſons ſhall be ſuch, They ſhall be all ſingle Perſons, and ſhall continue ſingle, They ſhall be Pious, Sober, well reported of, or ſuch as ſhall promiſe and endeavour ſo to be. They ſhall be ſuch as are become Old, Decrepit, Lame, Blind, Impotent, or likely to be a burthen to the Pariſh of <hi>Aſton.</hi>
+            </p>
+            <p>And no Witch Wizzard, Sorcerer, or one that is acquainted with any Familiar Spirit, No Blaſ<g ref="char:EOLhyphen"/>phemer of Gods Name, or Common Swearer, no Fornicator, No Felon, No Common Drunkard ſhall be choſen or admitted.</p>
+            <p>FOURTHLY, After Election, theſe ſhall all duly and orderly repaire to the Church every Morning and Evening, to hear Divine Service and Sermons, aſ<g ref="char:EOLhyphen"/>well on Working-dayes, as on the Lords Day, and Holy-Dayes, whenſoever Holy Exerciſes ſhall be performed there. And in their Repair to the Church, as alſo in their return from it, they ſhall goe all in Decent and Comely manner, that is to ſay, Firſt, Two Men, Secondly, Two Men, Thirdly, One Man, and one Woman, Fourthly, two Wo<g ref="char:EOLhyphen"/>men, Fifthly, two Women together. In the ſame Manner and Form, to witt, Two and Two, ſhall accompany every Corps to be buried in the Church or Churchyard of <hi>Aſton</hi> (except the Perſon decea<g ref="char:EOLhyphen"/>ſed be thought to have died of the Plague, or ſome ſuch contagious diſeaſe. They ſhall every day, Morning and Evening meet together at ſome con<g ref="char:EOLhyphen"/>venient Hour, in ſome one Room of the Almeſ<g ref="char:EOLhyphen"/>houſe, Then and there to confeſſe their ſinnes to God, to pray for a bleſſing upon themſelves and
+<pb n="3" facs="tcp:150150:3"/>others, and to give thanks for Gods mercies, and more particularly for the liberall Maintenance al<g ref="char:EOLhyphen"/>lowed them in that Place.</p>
+            <p>If no one of the Almes People can read, the Pariſh Clerke, or ſome other ſhall be procured to performe Prayers for them.</p>
+            <p>FIFTHLY, They ſhall be Helping, Aiding, and Aſ<g ref="char:EOLhyphen"/>ſiſting one to another in time of Sickneſſe, and in all Needs and Neceſſities. They ſhall avoid all thoſe Enormities aforeſaid which made them uncapable of Election, <hi>viz.</hi> Witchcraft, or Sorcery, Blaſphe<g ref="char:EOLhyphen"/>ming of Gods Name, or common Swearing, Fornica<g ref="char:EOLhyphen"/>tion, Felony, and common Drunkenneſſe. None of them ſhall Marry, None of them ſhall Begge af<g ref="char:EOLhyphen"/>ter they be choſen into the Place.</p>
+            <p>SIXTHLY, The cauſes for which any of them ſhall be expelled, ſhall be the ſame for which at firſt they ſhould not be admitted, <hi>viz.</hi> For Witchcraft, or Sorcery, for Blaſpheming, or incorrigible Swear<g ref="char:EOLhyphen"/>ing, for Fornication, for Felony, for common Drun<g ref="char:EOLhyphen"/>kenneſſe. Or, If any of them ſhall Marry or Begge: Leſſer puniſhments to be inflicted upon them, For every neglect of going to Church, For every diſorderly going, For every times abſence from Private Prayers, Morning, or Evening: for every Oath or notorious Lye: For every the leaſt di<g ref="char:EOLhyphen"/>ſtemper by Drink. When they are in health, and able to performe theſe Duties aforeſaid, they ſhall be lovingly admoniſhed for the firſt time. For the ſecond time, they ſhall loſe foure pence out of their weeks allowance. For the third and fourth time, and ſo forwards, if they ſhall double and treble their fault, the Penaltie ſhall likewiſe be doubled and trebled upon them, by the diſcretion of thoſe that are deſigned for that purpoſe, according as the qua<g ref="char:EOLhyphen"/>litie of the Fault, and the diſpoſition of the Partie Delinquent ſhall require. And in caſe no amend<g ref="char:EOLhyphen"/>ment
+<pb n="4" facs="tcp:150150:4"/>appear, upon ſo Moderate a courſe held, but the Parties offending ſhew themſelves deſperately incorrigible, then ſhall they be expelled out of the Societie. All the Penalties which ſhall be inflicted or impoſed upon any of the ſaid Ten Poor Almes people, for neglecting any of the duties aforeſaid, or for committing any of the faults aforeſaid, ſhall (by that Perſon which hath, or by thoſe Perſons which have power to puniſh them for the ſame) be given or diſtributed to the reſt of the ten poor Alms-people, which ſhall be no Delinquents, if they ſhall deſerve it, or elſe, ſhall be beſtowed upon, or to ſome other Charitable Uſe, or Uſes, as the ſaid Perſon, or Perſons, who ſhall impoſe the ſaid Penal<g ref="char:EOLhyphen"/>ties upon them, ſhall in his, or their diſcretion ap<g ref="char:EOLhyphen"/>point or think fitting.</p>
+         </div>
+         <div type="prayer">
+            <pb n="5" facs="tcp:150150:4"/>
+            <head>The Morning Prayer.</head>
+            <epigraph>
+               <q>It is a good thing to give thanks unto the Lord, and to ſing Praiſes unto thy Name, O moſt High. To ſhew forth thy loving kindneſſe in the Morn<g ref="char:EOLhyphen"/>ing, and thy faithfulneſſe, every Night.</q>
+               <q>Our voice ſhalt thou therefore hear in the Morn<g ref="char:EOLhyphen"/>ing, O Lord, in the Morning will we direct our Prayers unto Thee and will look up.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Lmighty and moſt mercifull Lord God, who Createdſt all things by thy Great Power, and who ſuſtaineſt all Crea<g ref="char:EOLhyphen"/>tures by thy Gracious providence: with<g ref="char:EOLhyphen"/>out whom we have nothing, and from whom we have all things which we do enjoy, or the Hopes whereof we can Ioy in, becauſe thou giveſt unto All liberally, and upbraideſt none. We acknowledge Lord, that Thou mighteſt moſt juſtly upbraid us, for our unworthineſſe of the leaſt, and our unthankfulneſſe for the greateſt of thy Mercies: and that for both, Thou mighteſt lay upon us the foreſt &amp; hea<g ref="char:EOLhyphen"/>vieſt of thy judgements. Even by the offence of One, Iudge<g ref="char:EOLhyphen"/>ment came upon All to Condemnation: and yet beſides that, we have added Rebellion unto Sinne, and aggravated out Guiltineſſe by our long continued Wickedneſſe: ſo that our Sinnes are become exceeding ſinfull. We have ſinned, O Lord, againſt the light of Reaſon, as we are Men, oft doing that, which even Nature teacheth us, that it is a ſhame
+<pb n="6" facs="tcp:150150:5"/>to do: and againſt the Light of Religion, as we are Chri<g ref="char:EOLhyphen"/>ſtians, holding the Truth in unrighteouſneſſe, and ſinning wilfully, even after we had received the Knowledge of the Truth. We have not only loved Evill more then Good, but have too long been unto every good Work Reprobate, or too apt to ſay, or think of every commanded Dutie, What a wearineſſe it is? Even to Will well, hath not been preſent with us, and how then to perform that which is good, O Lord, we know not: being only wiſe to do evill, and doing that with both hands earneſtly. Thus have we provoked Thee to anger moſt bitterly, therefore maiſt thou juſtly leave our blood upon us; for who may ſtand in thy ſight when thou art angry? though we know not the Power of thy Wrath, Thou maiſt juſtly make us feel it.</p>
+            <p>But remember, O Lord, thy tender Mercies, and thy Lo<g ref="char:EOLhyphen"/>ving kindneſſes, for they have been ever of Did: and hath the Lord forgotten to be Gracious? hath He in anger ſhut up his tender Mercies? For thy Names ſake, O Lord, par<g ref="char:EOLhyphen"/>don our iniquities though they are great! Is any thing too hard for the Lord, and the Power of his Goodneſſe? Oh let thy Mercy then ſo rejoyce againſt Iudgement, that our Soules may ever rejoyce in thy Mercy. Haſt thou not ſaid, O Lord, that where Sinne aboundeth, Grace may much more abound? Magnifie then Thine own abounding Grace, in being Gracious to us, of Sinners chiefe, as we know more in Our ſelves, then we do or can know of Others: And if our own Hearts condemne us, Thou art greater then our hearts, and knoweſt all things; Yea thou haſt ſet our iniquities before thee, and our ſecret ſins in the light of Thy Countenance. But remember thy words unto thy Servants, wherein thou haſt made us to hope, that Thou wilt forgive our Iniquitie, and remember our Sinne no more! And hath the Lord ſaid, and ſhall he not do it? or hath he ſpoken, and ſhall He not make it good? Remember Him alſo, and His precious Merits, in whom thou ſayſt thou art well pleaſed, that for this End was he born, and for this cauſe came He into the World, that He might bear our Griefes, and carry our Sorrows, that He might make his Soul an offering for Sinne: and did not thy Wiſdome pro<g ref="char:EOLhyphen"/>vide ſatisfaction to thy Iuſtice therein: didſt not Thou lay help upon One that was Mightie, and able to ſave them to the uttermoſt, that come unto God by Him? Yea, was not he made unto us, Wiſdome, and Righteouſneſſe, and Sanctification, aſ well as Redemption? Oh then, as thou
+<pb n="7" facs="tcp:150150:5"/>madeſt Him to be Sinne for us, who knew no Sinne, ſo let us be made the Righteousneſſe of God in Him.</p>
+            <p>And as thou ſparedſt not thine own Sonne, but deliver<g ref="char:EOLhyphen"/>eſt Him up for us all, how ſhalt thou not with Him alſo freely give us all things? How ſhall not our God alſo ſup<g ref="char:EOLhyphen"/>ply all our Needs according to his Riches? We were caſt up<g ref="char:EOLhyphen"/>on thee from the Wombe, and have ever ſince lived only on thy Goodneſſe, and thy good things, as the Earth is full of thy Riches. Now therefore when we are Old, and Gray-headed, O God forſake us not; but as thou art good, and doſt good, ſo be not thou thy ſelf weary in well-doing: re<g ref="char:EOLhyphen"/>member thou haſt ſaid, the goodneſſe of God endureth conti<g ref="char:EOLhyphen"/>nually.</p>
+            <p>And do Good in thy good pleaſure unto <hi>Sion:</hi> our Hearts de<g ref="char:EOLhyphen"/>ſire and Prayer to God for Iſrael is, that they might be ſaved: But be more peculiarly gracious unto this Nation, this Land of our Nativitie: And for his ſake, whom thou gaveſt to be a healing of the Nations, heal our breaches: let all thoſe that rule over Men be juſt, ruling in the feare of God. And be ſo with thine owne immediate ſervants that do thy worke in thy Houſe, that it may proſper in their hands. And ſhew, Lord, that thou art a God of the Valleyes, as well as of the Moun<g ref="char:EOLhyphen"/>tains: that though the Lord be high, yet He hath reſpect unto the Lowly, and Loweſt in Condition. Right the Wronged, comfort the Sadded, ſupply the Impoveriſhed, ſupport the Weakned, heal the Diſeaſed: Thus, Lord, be thou All to All, that thou mayeſt be faithfully owned, and thank<g ref="char:EOLhyphen"/>full acknowledged to be All in All.</p>
+            <p>And being thou, Lord, condemneſt all unthankfulneſſe, placing the unthankfull amongſt the moſt unholy: We give thee thanks for the Founder of this Place, the nouriſher of our perſons, <hi>Sir Thomas Holt Knt. and Baronet.</hi> Bleſſed be the Lord God who did put ſuch a thing as this into his noble Heart, and did turn it as a river of water to refreſh us. Bleſſed be the Lord who remembred us in our low eſtate: who as thou workeſt in all both to will and to doe, of thy good pleaſure, didſt work in him to Will ſo Charitably, and to Doe ſo bountifully. And bleſſe we pray thee all his ſur<g ref="char:EOLhyphen"/>viving and ſucceeding Relations: thoſe eſpecially, whoſe Pietie hath ſo imployed his Charitie, and improved his good Intentions into great Actions for our good: As thy Mercy is from everlaſting to everlaſting, and thy Righteouſneſſe unto Childrens Children: ſo Lord, whilſt the name of the Wicked doth rott, let His name live in Them, and let their Names ſtand written in the Book of life for ever after him.</p>
+            <pb n="8" facs="tcp:150150:6"/>
+            <p> And now we praiſe thy Name, O Lord, for the refreſh<g ref="char:EOLhyphen"/>ment and enſafement of us the night paſt, and for the enlarge<g ref="char:EOLhyphen"/>ment of thy goodneſſe towards us ſo far of this preſent day: Remember ſtill thine own good word, that the Lord will command his loving kindneſſe in the day time: as thou art graciouſly pleaſed to adde another day unto our lives, ſo adde other mercies unto our dayes, eſpecially putting ſuch Grace into our hearts, that we may ſeek firſt the Kingdome of God and his Righteouſneſſe, that ſo all other things may be added unto us: And then put thy fear in our hearts that we may never depart from from thee, but rather be ſo in the feare of the Lord all the day long, that by it we may depart from all evill. And that we may not fall from thee by any impatience under thy juſt Hand, by any unbeliefe in thy Mercy, or by any temptation from the enemie of our ſoules, to any evill, or from any Duty, uphold us Lord with thy free Spirit. And being we know not what to pray for as we ought, let the ſame Holy Spirit help our infirmities in praying for all, as thy deer Sonne our Saviour, in whom thou art a God that heareſt Prayer, hath himſelf taught us to pray, ſaying, <hi>Our Father which art in Heaven, hallowed be thy Name, Thy kingdome come, Thy will be done on earth, as it is in Heaven, Give us this day our dayly bread, and forgive us our treſpaſſes, as we forgive them that treſpaſſe againſt us, and lead us not into temptation, but deliver us from all evill, for Thine is the Kingdome, the Power, and the Glory, for ever and ever, Amen.</hi>
+            </p>
+            <pb facs="tcp:150150:6"/>
+         </div>
+         <div type="prayer">
+            <pb n="9" facs="tcp:150150:7"/>
+            <head>The Evening Prayer.</head>
+            <epigraph>
+               <q>Give ear unto our Prayers, O God, and hide not thy Self from our Supplications. Hear thou in Heaven thy Dwelling Place, and when Thou heareſt, forgive. Let our Prayers be ſet be<g ref="char:EOLhyphen"/>fore thee as Incenſe, and the lifting up of our hands as the Evening Sacrifice.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Oſt Holy, and moſt Dreadfull Lord God: with whom is terrible Majeſty, ſo that even the pureſt of the Heavenly Angels tremble before it, and cover their faces, as even them thou haſt charged with folly. With what Coun<g ref="char:EOLhyphen"/>tenances, with what confidences, can we then ſinfull and impure Creatures, lift up ſo much as our eyes unto Heaven; having ſo much and ſo long ſinned againſt Heaven, and in thy ſight: to provoke the eyes of thy Glory. Rather therefore, ſtanding a far off, may we ſmite upon our breſts, and the joynts of our Loynes being looſed, and our Knees alſo ſmiting one againſt ano<g ref="char:EOLhyphen"/>ther, may we here trembling and ſorrowing ſay, God be mercifull unto us ſinners; who have not been only aliena<g ref="char:EOLhyphen"/>ted, but even enemies in our mindes by wicked works, as it were to augment yet more the fierce Anger of the Lord againſt us. And yet ſeeing it hath pleaſed Thee, O Father, by thine own Sonne to reconcile all things unto thy ſelf, we have holdneſſe and acceſſe with confidence by the faith of Him, unto thy Throne of Grace. Hoping and believing that in &amp; by Him, we ſhall obtaine mercie, and finde Grace to help in
+<pb n="10" facs="tcp:150150:7"/>time of need. And ſuch, O Lord, is all our time; even as to temporall things, when could we truly ſay, that we had need of nothing? but as to Spirituall things, when could we not truly ſay, that we have need of every thing, being by nature All of us, wretched, and miſerable, and poore, and blinde, and naked. And yet, O Lord, there is hope in Iſrael concerning this thing: even ſuch have looked unto thee, and were lightned, and their faces were not aſhamed: the poor man cryed, and the Lord heard him. And thou art the Father of Lights, with whom is no variableneſſe, neither ſhadow of turning: And Ieſus Chriſt is the ſame yeſterday, &amp; to day, and for ever more. Why then ſhould we be caſt down, poor ſouls, or why ſhould we be diſquieted within us: We hope ſtill in God, that we ſhall yet praiſe Him, for the help of His Coun<g ref="char:EOLhyphen"/>tenance; Though thou art the High and Lofty One, that in<g ref="char:EOLhyphen"/>habiteſt Eternitie, yet haſt thou regard of poore Mortals; yea, thou haſt promiſed, ſaying, to this man will I look, even to him that is Poor, and of a contrite ſpirit, that trembleth at thy Word, to revive the ſpirit of the Humble, and to revive the hearts of the Contrite ones: to remember the Congrega<g ref="char:EOLhyphen"/>tion of thy poore for ever. But alas, O Lord, we finde and feele too much ſecuritie and impenitencie in our hard hearts, oppoſing, weakning, or depraving our Beleeving; becauſe thou gaveſt Chriſt to give repentance unto Iſrael, aſwell as remiſſion of ſins: And we have too long made our hearts as an Adamant ſtone, leaſt we ſhould hear thy Law, and ſo be humbled and penitent. But thou, Lord, ſmoteſt the rock it ſelf, that the waters guſhed out, and the ſtreams overflow<g ref="char:EOLhyphen"/>ed, and ran in dry places like a River: touch our hearts, &amp; we ſhall relent to tears; move our eyes, and we ſhall then look up unto him whom we have pierced, and ſo mourn and be in bitterneſſe for our ſinnes, for which he ſo ſuffered: So let us be before thee here, that when we come unto Thee hereaf<g ref="char:EOLhyphen"/>ter, thou mayſt wipe away all tears from our eyes: that there may then be no more ſorrow, nor crying, nor any more paine for us, as for the Impenitent and Unholy, the ſmoke of whoſe Torment aſcendeth up for ever, where there is weeping, and wailing, and gnaſhing of teeth. In the mean time, O Lord, becauſe none can underſtand his errors (as who knoweth how oft he offendeth?) O cleanſe thou us from our ſe<g ref="char:EOLhyphen"/>cret ſinnes; but eſpecially keep back us thy ſervants from preſumptuous ſinnes, let not them have dominion over us. Yea, waſh us throughly from all iniquities, with the blood of Ieſus Chriſt, which cleanſeth from all ſinnes. For if our Tranſgreſſions and our ſinnes be upon us, and we pute away
+<pb n="11" facs="tcp:150150:8"/>in them already, how ſhould we then live for ever, if our ſinnes lye down with us in the Duſt: and how Iuſtly migh<g ref="char:EOLhyphen"/>teſt thou cut us off here now with pining ſickneſſe, and from day even to night make an end of us? or make us to poſſeſſe only moneths of vanity, and weariſome nights to be appoint<g ref="char:EOLhyphen"/>ed to us. But as thou haſt ſaid, that by Chriſt all that be<g ref="char:EOLhyphen"/>lieve are juſtified from all things: even ſo, moſt Gracious Lord, be it unto us thy ſervants according to thy word: en<g ref="char:EOLhyphen"/>abling us to look up unto Ieſus, who is the Author and Fi<g ref="char:EOLhyphen"/>niſher of our Faith: yea, Lord, we believe, help thou our un<g ref="char:EOLhyphen"/>beliefe. And ſeal we pray Thee, our pardons here: and thy juſtifying of our perſons, by thy ſanctifying of our Natures: for haſt Thou but one bleſſing, O our Father? wilt thou for<g ref="char:EOLhyphen"/>give only, and not give alſo? O give unto us thoſe Sancti<g ref="char:EOLhyphen"/>fying, thoſe ſaving Graces of thy Spirit, whereby thou makeſt thine meet to be partakers of the inheritance of the Saints in Light. That we may be firſt partakers of the Divine Nature, having eſcaped the corruption that is in this world, and then partakers of the Divine Glory, in that which is to come: Perform O Lord, thine own promiſe, according to thy own Method in promiſing, that, the Lord will give Grace and Glory: guide us with thy Counſel, and afterwards receive us unto Glory.</p>
+            <p>And now, Lord, as we praſe Thee for thy multiplied mer<g ref="char:EOLhyphen"/>cie all this day paſt, ſo we pray thee for thy continued mercy all this night coming: when the ſhadows of the Evening are ſtretched out, keep us, O Lord, under the ſhadow of thy wings, untill all callamities are overpaſt: for thou, Lord, only canſt make us dwell in ſafety. We ſtand in Ieopardy every hour, but moſt expoſed unto dangers, and with leaſt helps in the night: oh then let the Angells of the Lord encamp round about us, and preſerve us: So ſhew that they are all Miniſtring Spirits, ſent forth to miniſter for them who ſhall be heires of Salvation.</p>
+            <p>But becauſe as unto much longer life, our Bones are dryed, our hope is loſt, and we are already almoſt cut off for ſome of our parts, Lord make us ſo wiſe as to conſider our lat<g ref="char:EOLhyphen"/>ter ends; that as death is the end of all, and after death judgement, ſo whilſt living we may lay it unto heart: till death worketh in us, ſo to live in thy feare, that we may dye in thy love, and in that thy loving kindneſſe which is bet<g ref="char:EOLhyphen"/>ter then life, Thou mayſt ſay, O Lord, to any, or all of us, ye fools, this night your Soules ſhall be required of you: work in us therefore (as thou alſo haſt wrought all our works in us) to remember thee on our beds, and to meditate
+<pb n="12" facs="tcp:150150:8"/>on Thee in the night watches, becauſe thou knoweſt our down-ſitting, and our up-riſing, and underſtandeſt our thoughts afar off: when therefore we awake, let us be ſtill with Thee. And as with long life, thou haſt in ſome mea<g ref="char:EOLhyphen"/>ſure ſatisfied us, ſo now ſhew us thy Salvation; Givens, O Lord, ſuch a proſpect of the Heavenly Canaan, as may make us more willing to leave this wilderneſſe; more de<g ref="char:EOLhyphen"/>ſirous to be diſſolved and to be with Chriſt, in whoſe preſence is the fulneſſe of joy, and at whoſe Right Hand there are plea<g ref="char:EOLhyphen"/>ſures for evermore. To ſweeten our repoſes, ſay unto our ſoules, I am your Salvation: ſay, Lord, your God hath not appointed you to wrath, but to obtain Salvation, by your Lord Ieſus Chriſt, who died for us, that whether we wake or ſleep, we ſhould live together with him: ſo ſhall we ever be with the Lord. In whoſe Name, and with whoſe words we ask all, ſaying, <hi>Our Father which art in Heaven, hallowed be thy Name, Thy kingdome come, Thy will be done in earth, as it is in Heaven, Give us this day our dayly bread, And forgive us our treſpaſſes, as we forgive them that treſpaſſe againſt us, And lead us not into temptation, but deliver us from all evill, For Thine is the Kingdome, the Power, and the Glory, for ever and ever, Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:150150:9"/>
+            <pb n="13" facs="tcp:150150:9"/>
+            <head>For the Sick.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Ithout the Law you cannot know ſin, ſinne being the Tranſgreſſion of the Law, and without knowledge of ſin, you cannot have either Contrition for ſin, or reformation from ſin, or any manner or meaſure of repentance unto life. Firſt, therefore let us hear the voyce of the Law:</hi> God ſpake all theſe words, ſaying, I am the Lord thy God, which have brought thee out of the Land of Egypt, out of the houſe of Bondage.</p>
+            <p n="1">I. Thou ſhalt have no other gods before Me.</p>
+            <p n="2">II. Thou ſhalt not make unto thee any graven Image, or any likeneſſe of any thing, that is in Heaven above, or that is in the Earth beneath, or that is in the Water under the Earth. Thou ſhalt not bow down thy ſelf to them, nor ſerve them: for I the LORD thy God am a jealous God, viſiting the iniquity of
+<pb n="14" facs="tcp:150150:10"/>the Fathers upon the Children unto the third and fourth Generation of them that hate me: and ſhewing mercy unto thouſands of them that love me, and keep my Commandements.</p>
+            <p n="3">III. Thou ſhalt not take the Name of the Lord thy God in vain: for the Lord will not hold him guiltleſſe that taketh his Name in vain.</p>
+            <p n="4">IV. Remember the Sabbath-day, to keep it holy. Six dayes ſhalt thou labour, and do all thy work. But the ſeventh day is the Sabbath of the Lord thy God: in it thou ſhalt not do any work, Thou, nor thy Sonne, nor thy Daughter, thy Man-ſervant, nor thy Maid-ſervant, nor thy Cattell, nor thy Stranger that is within thy gates. For in ſix dayes the Lord made Hea<g ref="char:EOLhyphen"/>ven and Earth, the Sea, and all that in them is, and reſted the ſeveth day: wherefore the Lord bleſſed the Sabbath-day, and hallowed it.</p>
+            <p n="5">V. Honour thy Father and thy Mother: that thy dayes may be long upon the Land which the Lord thy God giveth thee.</p>
+            <p n="6">VI. Thou ſhalt not kill.</p>
+            <p n="7">VII. Thou ſhalt not commit adulterie.</p>
+            <p n="8">VIII. Thou ſhalt not ſteal.</p>
+            <p n="9">IX. Thou ſhalt not bear falſe witneſſe a<g ref="char:EOLhyphen"/>gainſt thy Neighbour.</p>
+            <p n="10">X. Thou ſhalt not covet thy Neighbours
+<pb n="15" facs="tcp:150150:10"/>Houſe, thou ſhalt not covet thy Neighbours Wife, nor his Man-ſervant, nor his Maid-ſervant, nor his Oxe, nor his Aſſe, nor any thing that is thy Neighbours.</p>
+            <p>
+               <hi>Now what man is he that liveth and ſinneth not? Yea, who knoweth how oft he offendeth against this Law? And ſo this truly is, as it is called a fiery Law, both as given with fire at firſt, and as to its effect ſignified thereby, the conſuming of Tranſgreſ<g ref="char:EOLhyphen"/>ſors at the laſt. Only by Chriſt Ieſus cometh life, and by Faith in him, all our help and hope of life.</hi>
+            </p>
+            <p>John 3.16. <hi>God ſo loved the world, that he gave his only begotten Son: that whoſoever believeth in Him, ſhould not periſh, but have everlaſting life. Now therefore let us hear a ſummary of neceſſary Belief.</hi>
+            </p>
+            <p>I believe in God the Father Almighty, maker of Heaven and Earth: and in Jeſus Chriſt his only Sonne our Lord, which was conceived by the Holy Ghoſt, born of the Virgin Mary, ſuffered under Pontius Pilate, was crucified, dead, and buried, he deſcended into hell, the third day he roſe again from the dead, he aſcen<g ref="char:EOLhyphen"/>ded into Heaven, and ſitteth at the right hand of God the Father Almighty: from thence he ſhall come to judge the quick and the dead. I beleeve in the Holy Ghoſt, the holy Catholike Church, the communion of Saints, the for<g ref="char:EOLhyphen"/>giveneſſe
+<pb n="16" facs="tcp:150150:11"/>of ſinnes, the reſurrection of the body, and the life everlaſting. Amen.</p>
+            <epigraph>
+               <q>
+                  <bibl>Job 19.25, 26, 27.</bibl>
+                  <p>
+                     <hi>I know that my Redeemer li<g ref="char:EOLhyphen"/>veth, and that He ſhall ſtand at the latter day upon the earth. And though after my skin, worms deſtroy this body yet in my fleſh ſhall I ſee God: whom I ſhall ſee for my ſelf, and mine eyes ſhall behold, and not another, though my Reins be conſumed within me.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>Pſal. 116.15.</bibl>
+                  <p>
+                     <hi>Precious in the ſight of the Lord, is the death of his Saints.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>1 Sam. 2.6.</bibl>
+                  <p>
+                     <hi>The Lord killeth, and maketh alive, he bringeth down to the grave, and bringeth up.</hi>
+                  </p>
+               </q>
+            </epigraph>
+         </div>
+         <div type="prayer">
+            <pb n="17" facs="tcp:150150:11"/>
+            <head>The Prayer for the Sick.</head>
+            <p>
+               <seg rend="decorInit">O</seg> LORD our GOD, with whom is the Fountaine of Life, and to whom belong the iſſues of Death. We confeſſe our ſelves to be by nature ſinfull, and by ſinne abhominable, and therefore unwor<g ref="char:EOLhyphen"/>thy to ſpeak unto Thee, or to beſpeak a mercy from Thee, even for our ſelves. Yet in obedience to thine own command, that Supplications, and Prayers, and Interceſſions be made for all, we here deſire to intercede unto Thee in the be<g ref="char:EOLhyphen"/>half of this our Languiſhing and Pained (<note n="*" place="margin">or Siſter</note> Brother) we know, O Lord, that it was for ſin only that thou at firſt threatnedſt great plagues &amp; of long continuance, and ſore ſick<g ref="char:EOLhyphen"/>neſſes, and of long Continuance. And we acknowledge our demerits by ſinne, even of all thy threatned judgements: but we know too, that thine own Sonne, our Saviour himſelf, took our infirmities, and bare our ſickneſſes, and that thou haſt ſaid, concerning my ſervants, command ye Me: and that many a time, turnedſt thou thine anger away from them, and didſt not ſtirre up all thy Wrath, For that thou re<g ref="char:EOLhyphen"/>membreſt they were but fleſh. For thy Well-beloved Sons ſake therefore, let us begge of thee for this thy Servant, that thou wouldeſt remove Thy heavie hand from him<note n="*" place="margin">or Her</note>, and extend thy pitty to<note n="*" place="margin">or Her</note> him: for thou knoweſt<note n="*" place="margin">or She</note> his Frame; Re<g ref="char:EOLhyphen"/>member that<note n="*" place="margin">or Her</note> he is but duſt,: and therefore plead not againſt him with thy great power. Can it, O Lord, magnifie thy Might to break a Bubble, or cruſh a Moth? or to kill a Worme? oh then magnifie thy mercie rather! remembring thine own promiſe alſo, that thou wilt not contend for ever, neither be alway wroth, becauſe otherwiſe the Spirit would
+<pb n="18" facs="tcp:150150:12"/>fail before thee, and the Souls which thou haft made. And therefore unto<note n="*" place="margin">or Her</note> his dayes amongſt us on earth, that (He)<note n="*" place="margin">or She</note> may be the better fitted for Thee and Heaven. That by this neerneſſe unto death,<note n="*" place="margin">or She</note> he may the better learn to live, and by that addition to his life,<note n="*" place="margin">or She</note> he may the better learn to dye.<note place="margin">or She</note> Or if in thy ſecret wiſdome, thou haſt determined this to be<note n="*" place="margin">or Her</note> his laſt viſitation, ſend down thy holy Spirit to ſtrengthen, guide, and comfort<note n="†" place="margin">or Her</note> him before, and in the hour of death, to ſtrengthen<note n="†" place="margin">her</note> his Faith, that<note n="†" place="margin">her</note> he may without any detracting, or diſtempering fears or doubts, believe and reſt upon thy Love, to guide<note n="†" place="margin">or ſher</note> his affections, that<note n="†" place="margin">or ſhe</note> he may without any worldly ſorrowes, or ſnares, freely reſigne<note n="*" place="margin">Her ſelf</note> him<g ref="char:EOLhyphen"/>ſelf unto thy Fatherly diſpoſing: and to comfort * his ſoule in the anguiſh of<note n="†" place="margin">or Her</note> his body, with a gracious tender of the joyes of Heaven both unto Body and Soul; That ſo the enemie, who daily waits for every advantage (for we are not igno<g ref="char:EOLhyphen"/>rant of his devices) may not gain by this<note n="†" place="margin">or Her</note> his weakeneſſe. Say Lord to<note n="†" place="margin">or Her</note> him therefore, now thy ſinnes are for<g ref="char:EOLhyphen"/>given thee; that ſo<note n="†" place="margin">or Her</note> he may with all aſſurance of thy love,<note n="†" place="margin">or She</note> throw<note n="*" place="margin">Her ſelf</note> himſelf into thine Arms of mercy, and into thy hands commend<note n="*" place="margin">or Her</note> his ſpirit. Thus Lord, hear our Prayers for him, and hear<note n="*" place="margin">or Her</note> his groanings for * himſelf, and hear our us all; The Lord hath ſaid, that whatſoever we ask the Fa<g ref="char:EOLhyphen"/>ther in his Name, He will doe it: In his only Name there<g ref="char:EOLhyphen"/>fore, and with his own words, we thus farther aske all, ſaying, <hi>Our Father which art in Heaven, hallowed be thy Name, Thy kingdome come, Thy will be done in earth, as it is in Heaven Give us this day our dayly bread. And forgive us our treſpaſſes, as we forgive them that treſpaſſe againſt us, And lead us not into temptation, but deliver us from all evill For Thine is the Kingdome, the Power, and the Glory, for ever and ever. Amen.</hi>
+            </p>
+            <p>
+               <hi>The All-ſufficient Grace of our Lord Jeſus Chriſt, the all-ſatisfying Love of God the Father, and the all ſanctifying fellowſhip of God the Holy Ghoſt, be with this our<note n="†" place="margin">or Siſter</note> (Brother) and with us all, now and evermore. Amen.</hi>
+            </p>
+            <pb facs="tcp:150150:12"/>
+            <pb facs="tcp:150150:13" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
